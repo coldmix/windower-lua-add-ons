@@ -89,14 +89,6 @@ return {
             "Teal Memosphere",
         },
     },
-    ["Inferno Axe"] = {
-        ["crystal"] = "Earth Crystal",
-        ["ingredients"] = {
-            "Slime Oil",
-            "Firesand",
-            "Butterfly Axe",
-        },
-    },
     ["Liquefaction Sphere"] = {
         ["crystal"] = "Lightng. Crystal",
         ["ingredients"] = {
